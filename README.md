@@ -65,7 +65,7 @@ http://<RaspberryPi_IP_Address>:8123
 - Smart home integration
 - Real-time IoT control
 
-<img width="400" height="1324" alt="image" src="https://github.com/user-attachments/assets/c3b9d281-7a88-4ba5-958f-3ef23925a99e" />
+<img height="1324" alt="image" src="https://github.com/user-attachments/assets/c3b9d281-7a88-4ba5-958f-3ef23925a99e" />
 
 
 ---
@@ -101,7 +101,7 @@ Tutorial followed:
 - Successfully installed Home Assistant on Raspberry Pi
 - Accessed dashboard through browser
 - Created basic home automation rule
-<img width="400" height="1412" alt="image" src="https://github.com/user-attachments/assets/c1826e6b-bccc-4e9d-ac22-301012a3a229" />
+<img height="1412" alt="image" src="https://github.com/user-attachments/assets/c1826e6b-bccc-4e9d-ac22-301012a3a229" />
 
 
 ---
