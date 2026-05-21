@@ -65,7 +65,8 @@ http://<RaspberryPi_IP_Address>:8123
 - Smart home integration
 - Real-time IoT control
 
-<img src="여기에_실습_스크린샷_업로드" width="500"/>
+<img width="400" height="1324" alt="image" src="https://github.com/user-attachments/assets/c3b9d281-7a88-4ba5-958f-3ef23925a99e" />
+
 
 ---
 
@@ -100,13 +101,13 @@ Tutorial followed:
 - Successfully installed Home Assistant on Raspberry Pi
 - Accessed dashboard through browser
 - Created basic home automation rule
-
-<img src="여기에_결과_사진_업로드" width="500"/>
+<img width="400" height="1412" alt="image" src="https://github.com/user-attachments/assets/c1826e6b-bccc-4e9d-ac22-301012a3a229" />
 
 
 ---
 
 ## Repository
-- Notion Upload
+- Notion
+https://www.notion.so/Team-F-34f502a3cc6c80aa8522e0026b441b93
 
 ---
