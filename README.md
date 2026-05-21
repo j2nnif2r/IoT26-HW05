@@ -68,6 +68,8 @@ http://<RaspberryPi_IP_Address>:8123
   
 <img width="400" src="https://github.com/user-attachments/assets/75b86a01-a90a-43f1-92d5-47846f6e232b" />
 
+
+
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/c3b9d281-7a88-4ba5-958f-3ef23925a99e" />
 
 
@@ -106,6 +108,10 @@ Tutorial followed:
 - Accessed dashboard through browser
 - Created basic home automation rule
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/c1826e6b-bccc-4e9d-ac22-301012a3a229" />
+
+
+
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/06db5b74-8f5c-4a62-b088-ae0ef62101c9" />
 
 
